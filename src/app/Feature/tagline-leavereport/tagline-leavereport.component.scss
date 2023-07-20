@@ -1,0 +1,26 @@
+
+
+.fieldTitle{
+    width: 445px;
+}
+
+.fieldBody{
+    width: 550px;
+}
+
+.extra{
+    color: #D96122;
+    opacity: 0.3;
+    font-size: 35px;
+}
+
+input.ng-invalid.ng-touched,
+select.ng-invalid.ng-touched{
+    border: 1px solid red;
+    box-shadow: 0 0 2px inset red;
+}
+
+// input.ng-valid{
+//     border: 1px solid green;
+//     box-shadow: 0 0 2px inset green ;
+// }
